@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="45582531-4755-4540-b69e-31af302185ec" name="Default Changelist" comment="" />
+    <list default="true" id="45582531-4755-4540-b69e-31af302185ec" name="Default Changelist" comment="demo up code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,18 +65,45 @@
       <workItem from="1602125172705" duration="510000" />
       <workItem from="1602125716335" duration="1238000" />
       <workItem from="1602126972264" duration="4057000" />
-      <workItem from="1602131053623" duration="314000" />
+      <workItem from="1602131053623" duration="1800000" />
     </task>
+    <task id="LOCAL-00001" summary="demo up code">
+      <created>1602131441679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131441679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo up code" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo up code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602128776506">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="404" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1602128776506" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602133047106">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1602133047106" />
     <state x="303" y="41" key="search.everywhere.popup" timestamp="1602125579610">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
