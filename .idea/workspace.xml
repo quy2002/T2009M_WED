@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45582531-4755-4540-b69e-31af302185ec" name="Default Changelist" comment="demo up code">
+    <list default="true" id="45582531-4755-4540-b69e-31af302185ec" name="Default Changelist" comment="nộp bài tập">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,9 @@
       <workItem from="1602125172705" duration="510000" />
       <workItem from="1602125716335" duration="1238000" />
       <workItem from="1602126972264" duration="4057000" />
-      <workItem from="1602131053623" duration="1800000" />
+      <workItem from="1602131053623" duration="2052000" />
+      <workItem from="1602171559317" duration="312000" />
+      <workItem from="1602171887389" duration="3188000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131441679</created>
@@ -74,7 +75,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602131441679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="demo up code">
+      <created>1602133081114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602133081114</updated>
+    </task>
+    <task id="LOCAL-00003" summary="demo up code">
+      <created>1602133164921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602133164921</updated>
+    </task>
+    <task id="LOCAL-00004" summary="nộp bài tập">
+      <created>1602174810551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602174810551</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,20 +112,30 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo up code" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo up code" />
+    <MESSAGE value="nộp bài tập" />
+    <option name="LAST_COMMIT_MESSAGE" value="nộp bài tập" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602128776506">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="404" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1602128776506" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602133047106">
+    <state x="438" y="63" key="RollbackChangesDialog" timestamp="1602171843753">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1602133047106" />
+    <state x="438" y="63" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1602171843753" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602174904652">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1602174904652" />
+    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602171860819">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1602171860819" />
     <state x="303" y="41" key="search.everywhere.popup" timestamp="1602125579610">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
