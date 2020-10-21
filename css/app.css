@@ -1,0 +1,41 @@
+body{
+    background-color: #f2f2f2;
+    background-image: url("https://i.pinimg.com/originals/72/a7/a4/72a7a49a5717bc8be68348b5289b1609.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: rgb(50,50,50);
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+}
+p{
+    color:#232323;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "SansSerif";
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    background-color: chartreuse;
+}
+*{
+
+}
+body{
+    background-color: #f2f2f2; /*Phông Nền*/
+    font-size: 14px; /*Cỡ Chữ*/
+    line-height: 1.25; /*Tăng hoặc giảm khoảng cách giữa các dòng*/
+    font-weight: 400; /*in đậm*/
+    font-family: 'Roboto', sans-serif; /* Loại Chữ */
+    color: #232323; /*Màu Chữ*/
+}
+div{
+    width: 350px; /* Rộng */
+    height: 400px; /* Cao */
+    background-color: #ffffff;
+    border: 16px solid #333333; /* Độ dày Viền */
+    box-shadow:  0 0 5px #aaaaaa;
+}
