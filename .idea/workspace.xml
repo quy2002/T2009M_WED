@@ -11,7 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45582531-4755-4540-b69e-31af302185ec" name="Default Changelist" comment="nộp bài tập">
+      <change afterPath="$PROJECT_DIR$/css/demoform.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/lab7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoform.html" beforeDir="false" afterPath="$PROJECT_DIR$/demoform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs6.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,6 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Media" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -67,6 +75,7 @@
       <workItem from="1602131053623" duration="2052000" />
       <workItem from="1602171559317" duration="312000" />
       <workItem from="1602171887389" duration="3188000" />
+      <workItem from="1603334494101" duration="6479000" />
     </task>
     <task id="LOCAL-00001" summary="demo up code">
       <created>1602131441679</created>
@@ -96,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602174810551</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="nộp bài tập">
+      <created>1603334543476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603334543476</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,21 +140,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="404" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1602128776506" />
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603334968374">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1603334968374" />
+    <state x="280" y="122" key="MultipleFileMergeDialog" timestamp="1603334561820">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="280" y="122" key="MultipleFileMergeDialog/0.0.1280.720@0.0.1280.720" timestamp="1603334561820" />
     <state x="438" y="63" key="RollbackChangesDialog" timestamp="1602171843753">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="438" y="63" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1602171843753" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1602174904652">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1603334676931">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1602174904652" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1603334676931" />
     <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602171860819">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1602171860819" />
-    <state x="303" y="41" key="search.everywhere.popup" timestamp="1602125579610">
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1603337656766">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1602125579610" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1603337656766" />
   </component>
 </project>

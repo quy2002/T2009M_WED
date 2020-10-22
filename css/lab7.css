@@ -1,0 +1,47 @@
+* {
+    background-image: url("https://hocwebgiare.com/thiet_ke_web_chuan_demo/bootstrap_login_bg/images/main-background1.jpg ");
+}
+form{
+    text-align: center;
+    line-height: 10px;
+    margin-top: 150px;
+    height: 0px;
+}
+.key{
+    width: 350px;
+    background: white;
+    height: 40px;
+    border-radius: 10px;
+}
+.fullname{
+    width: 169px;
+    background: white;
+    height: 40px;
+    border-radius: 10px;
+}
+.submit{
+    background: #73AD21;
+    height: 39px;
+    width: 130px;
+    border-radius: 10px;
+}
+select.month {
+    background: white;
+    width: 116px;
+    height: 40px;
+    border-radius: 10px;
+}
+select.day {
+    background: white;
+    width: 116px;
+    height: 40px;
+    border-radius: 10px;
+}
+select.year {
+    background: white;
+    width: 116px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+
