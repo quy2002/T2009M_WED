@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="js/bootstrap3.4.1/css/bootstrap.css">
+    <link rel="stylesheet" href="../css/demoform.css">
+
+</head>
+<body>
+    <section class="section">
+        <div class="container">
+            <div class="col-md-6">
+                <form method="get" action="#">
+                    <input name="full_name" type="text" placeholder="Full Name.." required/><br/>
+                    <input name="email_address" type="email" placeholder="Enter Email.." required/><br/>
+                    <input name="pwd" type="password" placeholder="Enter Passwork.." required><br/>
+                    <input name="birthday" type="date" placeholder="Birthday.."/><br/>
+                    <input name="mycolor" type="color" placeholder="My Color.."/><br/>
+                    <label><input name="gender" checked type="radio" value="nam"/>Nam</label>
+                    <label><input name="gender" type="radio" value="nu"/>Nữ</label>
+                    <label><input name="gender" type="radio" value="khac"/>Khác</label>
+                    <br/>
+                    <label><input name="condition" checked type="checkbox"/>I'm ready!</label><br/>
+                    <select name="city">
+                        <option value="hn">Hà Nội</option>
+                        <option value="sg">Sài Gòn</option>
+                        <option value="ct">Cần Thơ</option>
+                    </select>
+                    <br/>
+                    <textarea name="motabanthan" rows="3" cols="25" placeholder="Mô tả bản thân"></textarea><br/>
+                    <button type="submit">Submit</button>
+                    <button type="button">Button</button>
+                    <button type="reset">Reset</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <form
+            </div>
+        </div>
+    </section>
+</body>
+</html>
